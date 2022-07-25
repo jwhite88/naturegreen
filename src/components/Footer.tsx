@@ -1,14 +1,14 @@
 import React from 'react';
 import ourplanetlight from '../assets/images/ourplanetlight.png'
-import { BsFillTelephoneFill } from "react-icons/bs";
-import { MdPhoneIphone, MdEmail } from "react-icons/md";
+import { BsFillTelephoneFill } from 'react-icons/bs';
+import { MdPhoneIphone, MdEmail } from 'react-icons/md';
 
 function Footer() {
   return (
-    <footer className="flex flex-row justify-around items-center py-4 min-h-[100px] bg-green-800 mt-16 font-serif">
+    <footer className='flex flex-row justify-around items-center py-4 min-h-[100px] bg-green-800 mt-16 font-serif'>
       <div className='flex flex-col justify-between h-[110px] w-[150px]'>
         <div className='w-[230px]'>
-          <img className="w-[125px] inline-block" src={ourplanetlight} alt="Our Planet light" /> 
+          <img className='w-[125px] inline-block' src={ourplanetlight} alt='Our Planet light' />
           {/* <span>Our Planet</span> */}
         </div>
         <div className='w-[250px]'>
@@ -17,9 +17,9 @@ function Footer() {
           </p>
         </div>
       </div>
-      <div className="text-slate-100">
+      <div className='text-slate-100'>
         <h4 className='text-md pb-4'>Contact Info</h4>
-        <div className="text-xs">
+        <div className='text-xs'>
           <address className='pb-2'>
             Address: 123 Main Street NorthWest
           </address>
