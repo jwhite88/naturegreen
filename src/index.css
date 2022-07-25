@@ -1,3 +1,10 @@
+@import-normalize;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -10,4 +17,24 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+#forest-one {
+  height: 100%;
+  background-image: url('assets/images/unsplash-forest-3.jpg');
+  background-size: 500px 318px;
+  background-repeat: no-repeat;
+  background-blend-mode: screen;
+  background-origin: content-box;
+  opacity: 0.5;
+}
+
+#forest-two {
+  height: 100%;
+  background-image: url('assets/images/unsplash-forest-6.jpg');
+  background-size: 500px 318px;
+  background-repeat: no-repeat;
+  background-blend-mode: screen;
+  background-origin: content-box;
+  opacity: 0.5;
 }
