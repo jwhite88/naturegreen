@@ -11,7 +11,7 @@ function Header() {
     <header className="  " >
       <div className="h-[70px] flex flex-row justify-between content-center flex-wrap px-7 text-lg text-gray-900 font-serif " >
         <div className=""> 
-        <img className='h-[40px]' src={ourplanet} alt="Our Planet" /> 
+        <img className='h-[40px]' src={ourplanet} alt="Our Planet description" /> 
         </div>
         <div>
           <div className="pt-2">
