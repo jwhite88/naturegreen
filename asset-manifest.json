@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/jwhite88/naturegreen/static/css/main.669a836a.css",
-    "main.js": "/jwhite88/naturegreen/static/js/main.97b099ed.js",
-    "static/js/787.1a5a301c.chunk.js": "/jwhite88/naturegreen/static/js/787.1a5a301c.chunk.js",
-    "static/media/unsplash-forest-3.jpg": "/jwhite88/naturegreen/static/media/unsplash-forest-3.9b9f4f1bde77738d69df.jpg",
-    "static/media/unsplash-forest-6.jpg": "/jwhite88/naturegreen/static/media/unsplash-forest-6.f4c4a9b38502d01475e9.jpg",
-    "static/media/scenic-route.jpg": "/jwhite88/naturegreen/static/media/scenic-route.518a22b1e632dde07dbb.jpg",
-    "static/media/unsplash-01.jpg": "/jwhite88/naturegreen/static/media/unsplash-01.75b7b79cfa5a57e45e61.jpg",
-    "static/media/unsplash-energy-3.jpg": "/jwhite88/naturegreen/static/media/unsplash-energy-3.bf50e5e48ddaca270cb4.jpg",
-    "static/media/unsplash-energy-1.jpg": "/jwhite88/naturegreen/static/media/unsplash-energy-1.77c5f7654b3daec92c25.jpg",
-    "static/media/unsplash-energy-4.jpg": "/jwhite88/naturegreen/static/media/unsplash-energy-4.a66dbef82a30662c1b6c.jpg",
-    "static/media/unsplash-energy-2.jpg": "/jwhite88/naturegreen/static/media/unsplash-energy-2.c6cfb3aaf3a8e8c86160.jpg",
-    "index.html": "/jwhite88/naturegreen/index.html",
-    "main.669a836a.css.map": "/jwhite88/naturegreen/static/css/main.669a836a.css.map",
-    "main.97b099ed.js.map": "/jwhite88/naturegreen/static/js/main.97b099ed.js.map",
-    "787.1a5a301c.chunk.js.map": "/jwhite88/naturegreen/static/js/787.1a5a301c.chunk.js.map"
+    "main.css": "/naturegreen/static/css/main.dd52d3d4.css",
+    "main.js": "/naturegreen/static/js/main.c6a6141e.js",
+    "static/js/787.1a5a301c.chunk.js": "/naturegreen/static/js/787.1a5a301c.chunk.js",
+    "static/media/unsplash-forest-3.jpg": "/naturegreen/static/media/unsplash-forest-3.9b9f4f1bde77738d69df.jpg",
+    "static/media/unsplash-forest-6.jpg": "/naturegreen/static/media/unsplash-forest-6.f4c4a9b38502d01475e9.jpg",
+    "static/media/scenic-route.jpg": "/naturegreen/static/media/scenic-route.518a22b1e632dde07dbb.jpg",
+    "static/media/unsplash-01.jpg": "/naturegreen/static/media/unsplash-01.75b7b79cfa5a57e45e61.jpg",
+    "static/media/unsplash-energy-3.jpg": "/naturegreen/static/media/unsplash-energy-3.bf50e5e48ddaca270cb4.jpg",
+    "static/media/unsplash-energy-1.jpg": "/naturegreen/static/media/unsplash-energy-1.77c5f7654b3daec92c25.jpg",
+    "static/media/unsplash-energy-4.jpg": "/naturegreen/static/media/unsplash-energy-4.a66dbef82a30662c1b6c.jpg",
+    "static/media/unsplash-energy-2.jpg": "/naturegreen/static/media/unsplash-energy-2.c6cfb3aaf3a8e8c86160.jpg",
+    "index.html": "/naturegreen/index.html",
+    "main.dd52d3d4.css.map": "/naturegreen/static/css/main.dd52d3d4.css.map",
+    "main.c6a6141e.js.map": "/naturegreen/static/js/main.c6a6141e.js.map",
+    "787.1a5a301c.chunk.js.map": "/naturegreen/static/js/787.1a5a301c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.669a836a.css",
-    "static/js/main.97b099ed.js"
+    "static/css/main.dd52d3d4.css",
+    "static/js/main.c6a6141e.js"
   ]
 }
