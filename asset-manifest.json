@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/naturegreen/static/css/main.dd52d3d4.css",
-    "main.js": "/naturegreen/static/js/main.c6a6141e.js",
+    "main.js": "/naturegreen/static/js/main.6679017c.js",
     "static/js/787.1a5a301c.chunk.js": "/naturegreen/static/js/787.1a5a301c.chunk.js",
     "static/media/unsplash-forest-3.jpg": "/naturegreen/static/media/unsplash-forest-3.9b9f4f1bde77738d69df.jpg",
     "static/media/unsplash-forest-6.jpg": "/naturegreen/static/media/unsplash-forest-6.f4c4a9b38502d01475e9.jpg",
@@ -13,11 +13,11 @@
     "static/media/unsplash-energy-2.jpg": "/naturegreen/static/media/unsplash-energy-2.c6cfb3aaf3a8e8c86160.jpg",
     "index.html": "/naturegreen/index.html",
     "main.dd52d3d4.css.map": "/naturegreen/static/css/main.dd52d3d4.css.map",
-    "main.c6a6141e.js.map": "/naturegreen/static/js/main.c6a6141e.js.map",
+    "main.6679017c.js.map": "/naturegreen/static/js/main.6679017c.js.map",
     "787.1a5a301c.chunk.js.map": "/naturegreen/static/js/787.1a5a301c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd52d3d4.css",
-    "static/js/main.c6a6141e.js"
+    "static/js/main.6679017c.js"
   ]
 }
